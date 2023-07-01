@@ -1,0 +1,16 @@
+{
+  "name": "mytabnews",
+  "version": "1.0.0",
+  "description": "A repository based on the course https://curso.dev/ by Filipe Deschamps where we build from end-to-end a large and scalable social network system.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
